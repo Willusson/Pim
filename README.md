@@ -10,4 +10,4 @@ Right now, I am actively competing in official CTF tournaments, also acting as a
 In the future, I will releas my projects here as soon as they are completed, with my ultimate goal being to build a career in BigTech 😝.
 
 ## Contact ⚡
-not yet)
+* Telegram: @prevozhoden

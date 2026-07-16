@@ -11,4 +11,4 @@ In the future, I will releas my projects here as soon as they are completed. And
 
 ## Contact ⚡
 * Telegram: @uvpip
-* Mail:n May Be soon)
+* Mail: May Be soon)

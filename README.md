@@ -7,8 +7,8 @@ I use React and C# for application development, along with Python for not big sc
 
 Right now, I am actively competing in official CTF tournaments, also acting as an active OSINT analyst and Red Team penetration tester on the 0nix.cc platform 😝.
 
-In the future, I will releas my projects here as soon as they are completed, with my ultimate goal being to build a career in BigTech 😝.
+In the future, I will releas my projects here as soon as they are completed. And my ultimate goal being to build a career in BigTech 😝.
 
 ## Contact ⚡
 * Telegram: @uvpip
-* Mail: May Be soon)
+* Mail:n May Be soon)
